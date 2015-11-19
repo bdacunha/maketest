@@ -1,4 +1,3 @@
-all: words.txt
 all: histogram.tsv
 
 clean:
